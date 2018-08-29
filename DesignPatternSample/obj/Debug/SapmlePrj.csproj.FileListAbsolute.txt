@@ -1,0 +1,6 @@
+F:\Work\Project\Practise\.Net\Sample\SapmlePrj\SapmlePrj\bin\Debug\SapmlePrj.exe.config
+F:\Work\Project\Practise\.Net\Sample\SapmlePrj\SapmlePrj\bin\Debug\SapmlePrj.exe
+F:\Work\Project\Practise\.Net\Sample\SapmlePrj\SapmlePrj\bin\Debug\SapmlePrj.pdb
+F:\Work\Project\Practise\.Net\Sample\SapmlePrj\SapmlePrj\obj\Debug\SapmlePrj.csprojResolveAssemblyReference.cache
+F:\Work\Project\Practise\.Net\Sample\SapmlePrj\SapmlePrj\obj\Debug\SapmlePrj.exe
+F:\Work\Project\Practise\.Net\Sample\SapmlePrj\SapmlePrj\obj\Debug\SapmlePrj.pdb

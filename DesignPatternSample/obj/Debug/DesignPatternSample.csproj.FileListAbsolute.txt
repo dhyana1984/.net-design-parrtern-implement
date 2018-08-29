@@ -1,0 +1,7 @@
+F:\GitHub Repository\.net-design-parrtern-implement\DesignPatternSample\bin\Debug\SapmlePrj.exe.config
+F:\GitHub Repository\.net-design-parrtern-implement\DesignPatternSample\bin\Debug\SapmlePrj.exe
+F:\GitHub Repository\.net-design-parrtern-implement\DesignPatternSample\bin\Debug\SapmlePrj.pdb
+F:\GitHub Repository\.net-design-parrtern-implement\DesignPatternSample\obj\Debug\DesignPatternSample.csprojAssemblyReference.cache
+F:\GitHub Repository\.net-design-parrtern-implement\DesignPatternSample\obj\Debug\DesignPatternSample.csproj.CoreCompileInputs.cache
+F:\GitHub Repository\.net-design-parrtern-implement\DesignPatternSample\obj\Debug\SapmlePrj.exe
+F:\GitHub Repository\.net-design-parrtern-implement\DesignPatternSample\obj\Debug\SapmlePrj.pdb
